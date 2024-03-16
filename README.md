@@ -5,7 +5,7 @@ try hack me ctf agendsudo
 ### Information:
 - IP: 10.10.188.104
 
-### Step 1: Enumeration
+### Step 1/2: Enumeration
 
 #### Passive Enumeration:
 - Utilisation d'un script d'enumeration de port par ChatGPT
